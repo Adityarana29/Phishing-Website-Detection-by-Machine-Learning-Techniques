@@ -1,4 +1,3 @@
-```markdown
 # 🚨 Phishing Website Detection by Machine Learning Techniques
 
 > **Creative, practical, and ready-to-run** README for the `Phishing-Website-Detection-by-Machine-Learning-Techniques` project.
