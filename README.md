@@ -173,15 +173,3 @@ This project is released under the **MIT License** — feel free to reuse and mo
 
 Created by **Aditya Rana**. Open an issue or submit a PR on GitHub — happy to help integrate new datasets, models, or a deployment pipeline.
 
----
-
-*If you want, I can:*
-
-* Produce a `README.md` file ready to paste into your repo (I can create it in the canvas for easy copying),
-* Generate `requirements.txt` and skeleton `train.py` / `predict.py` files,
-* Or make a Streamlit demo app with example UI components.
-
-Which of those would you like next? 🚀
-
-```
-```
